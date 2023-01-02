@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/state-lotto/static/css/main.f2581569.css",
+    "main.js": "/state-lotto/static/js/main.b2896450.js",
+    "index.html": "/state-lotto/index.html",
+    "main.f2581569.css.map": "/state-lotto/static/css/main.f2581569.css.map",
+    "main.b2896450.js.map": "/state-lotto/static/js/main.b2896450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2581569.css",
+    "static/js/main.b2896450.js"
+  ]
+}
