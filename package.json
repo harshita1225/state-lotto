@@ -1,7 +1,7 @@
 {
   "name": "lightswitch",
   "version": "0.1.0",
-  "homepage": "https://harshita1225.github.io/state-lotto",
+  "homepage": "https://harshita1225.github.io/state-lotto/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
